@@ -14,8 +14,6 @@ A cell-centered approach to developmental biology,
 Physica A: Statistical Mechanics and its Applications 352, 113 (2005).
 
 The latest unedited version of the code can be found online easily. 
-To run this, one needs to install Qt at https://www.qt.io/download. 
-Then, one should enter the subsequent commands in a terminal in order to get simulations running: 
->> qmake
->> make
->> ./ce default.par
+An explanation on the usage and installation of Tissue Simulation can be found in the book Vascular Morphogenesis:
+J. T. Daub and R. M. Merks, Cell-Based Computational Modeling of Vascular Morphogenesis Using Tissue Simulation Toolkit, in
+Vascular Morphogenesis - Methods and Protocols, edited by D. Ribatti, chapter 6, pages67–128, Bari, 2015
