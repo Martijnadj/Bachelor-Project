@@ -1,8 +1,6 @@
 # Bachelor-Project
 This repository will contain all relevant code used in my bachelor thesis
 
-The code in the folder 'Extracting outlines in vitro gastruloids' is based upon code written by Maria Mircea.
-
 The code in the folder LOCO-EFA is based upon the code from the article:
 Y. E. Sanchez-Corrales, M. Hartley, J. van Rooij, A. F. M. Maree, and V.  A.  Grieneisen,
 Morphometrics  of  complex  cell  shapes:  lobe  contribution elliptic Fourier analysis (LOCO-EFA), 
